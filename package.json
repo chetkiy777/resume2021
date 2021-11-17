@@ -1,0 +1,21 @@
+{
+  "name": "resume2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "homepage": "https://chetkiy777.github.io/resume2021/",
+ "scripts": {
+		"dev": "parcel src/*.html",
+		"build": "parcel build src/*.html --public-url /TKdevelopers/"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetkiy777/resume2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetkiy777/resume2021/issues"
+  }
+}
