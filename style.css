@@ -35,6 +35,8 @@ ul {
   background: #ffffff;
   display: flex;
   flex-direction: row;
+
+  max-height: 1170px;
 }
 
 .sidebar {
@@ -111,4 +113,8 @@ ul {
   display: inline-block;
   width: 200px;
   margin-right: 30px;
+}
+
+.mt {
+  margin-top: 20px;
 }
