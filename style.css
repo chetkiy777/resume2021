@@ -104,12 +104,11 @@ ul {
 
 .certificates {
   display: flex;
-  align-items: center;
+  align-items: baseline;
 }
 
 .img-thumb {
   display: inline-block;
   width: 200px;
   margin-right: 30px;
-  margin-bottom: -20px;
 }
