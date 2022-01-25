@@ -1,0 +1,2 @@
+!function(){var e=document.querySelector("[data-list]"),t=document.querySelector("[data-preview]"),c=document.querySelector(".modal"),n=function(){c.classList.add("hidden")};e.addEventListener("click",(function(e){"IMG"===e.target.nodeName&&(!function(e){t.setAttribute("src",e),c.classList.remove("hidden")}(e.target.getAttribute("src")),t.addEventListener("click",n))}))}();
+//# sourceMappingURL=index.25561a68.js.map

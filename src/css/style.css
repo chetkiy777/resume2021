@@ -1,0 +1,128 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f5f7fa;
+  padding: 20px;
+  font-family: "Montserrat";
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.wrapper {
+  display: relative;
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+
+  max-height: 1170px;
+}
+
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+}
+
+.contacts-container {
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-right: 40px;
+  color: blanchedalmond;
+}
+
+.contacts-title {
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.contact-item > a {
+  color: azure;
+}
+
+.techSkills-conteiner,
+.softSkills-conteiner {
+  padding-left: 30px;
+  padding-top: 20px;
+  color: white;
+}
+
+.allSkills {
+  padding: 10px;
+  font-weight: bold;
+  color: black;
+}
+
+.about-me {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.block-heading {
+  margin-top: 20px;
+  margin-bottom: 8px;
+  text-decoration: underline;
+}
+
+.edu-block__facultet {
+  font-size: 13px;
+}
+
+.certificates {
+  display: flex;
+  align-items: center;
+}
+
+.img-thumb {
+  display: inline-block;
+  width: 200px;
+  margin-right: 30px;
+}
+
+.modal {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+
+  height: 100%;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.modal__img-thumb {
+  max-width: 400px;
+}
+
+.modal.hidden {
+  display: none;
+}
