@@ -1,3 +1,5 @@
+/* Reset styles */
+
 * {
   padding: 0;
   margin: 0;
@@ -39,27 +41,22 @@ ul {
   max-height: 1170px;
 }
 
+/* Sidebar block */
+
 .sidebar {
   background: #1e2939;
   width: 370px;
   padding-top: 40px;
 }
 
-.about-me {
-  padding-left: 90px;
-  padding-right: 90px;
-  padding-top: 70px;
-}
-
-.contacts-conteiner {
-  margin-left: 40px;
+.contacts-container {
+  margin-left: 30px;
   margin-top: 30px;
   margin-right: 40px;
   color: blanchedalmond;
 }
 
 .contacts-title {
-  font-size: 22px;
   font-weight: 700;
   line-height: 24px;
   color: #ffffff;
@@ -82,39 +79,32 @@ ul {
   color: black;
 }
 
-#getBtn {
-  border: 1px solid black;
-  height: 30px;
-  width: 60px;
-  color: darkblue;
-  font-weight: bold;
-  background: antiquewhite;
+/* Right-side block */
+
+.about-me {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
-#message {
-  font-size: 12px;
-  color: grey;
+.block-heading {
+  margin-top: 20px;
+  margin-bottom: 8px;
+  text-decoration: underline;
 }
 
-.edu-block {
-  margin-bottom: 10px;
-}
-
-.edu-heading {
-  margin-bottom: 10px;
+.edu-block__facultet {
+  font-size: 13px;
 }
 
 .certificates {
   display: flex;
-  align-items: baseline;
+  align-items: center;
 }
 
 .img-thumb {
   display: inline-block;
   width: 200px;
   margin-right: 30px;
-}
-
-.mt {
-  margin-top: 20px;
 }
