@@ -1,4 +1,6 @@
-* {
+*,
+*::after,
+*::before {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -26,7 +28,6 @@ p {
 }
 
 ul {
-  margin: 0;
   padding: 0;
   list-style: none;
 }
@@ -85,12 +86,10 @@ ul {
 
 .block-heading {
   margin-top: 20px;
-  margin-bottom: 8px;
-  text-decoration: underline;
 }
 
-.edu-block__facultet {
-  font-size: 13px;
+.list__item {
+  margin-top: 15px;
 }
 
 .certificates {
@@ -102,29 +101,6 @@ ul {
   display: inline-block;
   width: 200px;
   margin-right: 30px;
-}
-
-.modal {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-
-  height: 100%;
-  width: 100%;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  background-color: rgba(0, 0, 0, 0.6);
-}
-
-.modal__img-thumb {
-  max-width: 400px;
-}
-
-.modal.hidden {
-  display: none;
 }
 
 /*# sourceMappingURL=index.c92073ef.css.map */
