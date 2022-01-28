@@ -1,4 +1,4 @@
-12682
+12684
 110D:\project\my_projects\resume2021\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json121436361000000000 0
 69D:\project\my_projects\resume2021\node_modules\highlight.js\README.md121436361000000000 0
 60D:\project\my_projects\resume2021\node_modules\vm-browserify132875819499024188 1
@@ -37,7 +37,7 @@
 81D:\project\my_projects\resume2021\node_modules\core-js\actual\typed-array\some.js121436361000000000 0
 74D:\project\my_projects\resume2021\node_modules\css-tree\lib\utils\clone.js121436361000000000 0
 70D:\project\my_projects\resume2021\node_modules\terser\lib\sourcemap.js121436361000000000 0
-38D:\project\my_projects\resume2021\dist132877558168586680 1
+38D:\project\my_projects\resume2021\dist132878530467106682 1
 78D:\project\my_projects\resume2021\node_modules\caniuse-lite\data\regions\IT.js121436361000000000 0
 71D:\project\my_projects\resume2021\node_modules\htmlparser2\lib\index.js121436361000000000 0
 88D:\project\my_projects\resume2021\node_modules\jake\node_modules\supports-color\index.js131792129460000000 0
@@ -128,7 +128,7 @@
 99D:\project\my_projects\resume2021\node_modules\@babel\highlight\node_modules\chalk\types\index.d.ts121436361000000000 0
 82D:\project\my_projects\resume2021\node_modules\@parcel\utils\test\throttle.test.js121436361000000000 0
 62D:\project\my_projects\resume2021\node_modules\merge2\index.js121436361000000000 0
-48D:\project\my_projects\resume2021\src\index.html132877558163918032 0
+48D:\project\my_projects\resume2021\src\index.html132878530312027920 0
 68D:\project\my_projects\resume2021\node_modules\emphasize\lib\core.js121436361000000000 0
 86D:\project\my_projects\resume2021\node_modules\@parcel\reporter-cli\lib\CLIReporter.js121436361000000000 0
 93D:\project\my_projects\resume2021\node_modules\terser\node_modules\source-map\source-map.d.ts131709648810000000 0
@@ -179,7 +179,7 @@
 72D:\project\my_projects\resume2021\node_modules\miller-rabin\node_modules132875819483816990 1
 65D:\project\my_projects\resume2021\node_modules\chrome-trace-event132875819512341042 1
 74D:\project\my_projects\resume2021\node_modules\utility-types\dist\index.js121436361000000000 0
-51D:\project\my_projects\resume2021\src\css\style.css132877557235593547 0
+51D:\project\my_projects\resume2021\src\css\style.css132878530465945113 0
 70D:\project\my_projects\resume2021\node_modules\core-js\features\string132875819477832177 1
 63D:\project\my_projects\resume2021\node_modules\timsort\index.js131138581980000000 0
 85D:\project\my_projects\resume2021\node_modules\core-js\stable\typed-array\index-of.js121436361000000000 0
@@ -2591,6 +2591,7 @@
 107D:\project\my_projects\resume2021\node_modules\@babel\core\node_modules\source-map\dist\source-map.debug.js131477959740000000 0
 68D:\project\my_projects\resume2021\node_modules\msgpackr\dist\test.js121436361000000000 0
 63D:\project\my_projects\resume2021\node_modules\semver\README.md121436361000000000 0
+57D:\project\my_projects\resume2021\dist\index.39c91821.css132878529403290380 0
 84D:\project\my_projects\resume2021\node_modules\@parcel\reporter-cli\src\logLevels.js121436361000000000 0
 78D:\project\my_projects\resume2021\node_modules\type-fest\ts41\pascal-case.d.ts121436361000000000 0
 80D:\project\my_projects\resume2021\node_modules\highlight.js\lib\languages\fix.js121436361000000000 0
@@ -5860,6 +5861,7 @@
 62D:\project\my_projects\resume2021\node_modules\jake\lib\api.js132361568290000000 0
 80D:\project\my_projects\resume2021\node_modules\highlight.js\scss\a11y-light.scss121436361000000000 0
 63D:\project\my_projects\resume2021\node_modules\jake\lib\jake.js132361568290000000 0
+61D:\project\my_projects\resume2021\dist\index.39c91821.css.map132878529403374665 0
 63D:\project\my_projects\resume2021\node_modules\jake\lib\rule.js132361568290000000 0
 75D:\project\my_projects\resume2021\node_modules\@parcel\cache\src\FSCache.js121436361000000000 0
 97D:\project\my_projects\resume2021\node_modules\es-abstract\2018\IsCompatiblePropertyDescriptor.js121436361000000000 0
@@ -6774,7 +6776,7 @@
 79D:\project\my_projects\resume2021\node_modules\core-js\modules\es.array.from.js121436361000000000 0
 85D:\project\my_projects\resume2021\node_modules\globals\node_modules\type-fest\license121436361000000000 0
 71D:\project\my_projects\resume2021\node_modules\glob-parent\CHANGELOG.md121436361000000000 0
-61D:\project\my_projects\resume2021\dist\index.c92073ef.css.map132877557239407025 0
+61D:\project\my_projects\resume2021\dist\index.c92073ef.css.map132878530467096712 0
 101D:\project\my_projects\resume2021\node_modules\@babel\helper-module-transforms\lib\get-module-name.js121012626000000000 0
 78D:\project\my_projects\resume2021\node_modules\caniuse-lite\data\regions\NC.js121436361000000000 0
 84D:\project\my_projects\resume2021\node_modules\globals\node_modules\type-fest\source132875819423837575 1
@@ -8723,7 +8725,7 @@
 86D:\project\my_projects\resume2021\node_modules\@parcel\runtime-browser-hmr\src\loaders132875819379468392 1
 72D:\project\my_projects\resume2021\node_modules\chalk\source\templates.js121436361000000000 0
 77D:\project\my_projects\resume2021\node_modules\create-ecdh\node_modules\bn.js132875819512331078 1
-49D:\project\my_projects\resume2021\dist\index.html132877558168576686 0
+49D:\project\my_projects\resume2021\dist\index.html132878530313822653 0
 85D:\project\my_projects\resume2021\node_modules\create-ecdh\node_modules\bn.js\LICENSE121436361000000000 0
 78D:\project\my_projects\resume2021\node_modules\caniuse-lite\data\regions\CH.js121436361000000000 0
 62D:\project\my_projects\resume2021\node_modules\clone\clone.iml130965576200000000 0
@@ -12560,7 +12562,7 @@
 60D:\project\my_projects\resume2021\dist\index.25561a68.js.map132875823277360234 0
 57D:\project\my_projects\resume2021\dist\index.80b4e5fa.css132875823277280444 0
 56D:\project\my_projects\resume2021\dist\index.b5532cc3.js132875823277280444 0
-57D:\project\my_projects\resume2021\dist\index.c92073ef.css132877557239357492 0
+57D:\project\my_projects\resume2021\dist\index.c92073ef.css132878530467036867 0
 57D:\project\my_projects\resume2021\dist\index.f570ef15.css132877554388717492 0
 56D:\project\my_projects\resume2021\dist\index.f5c48570.js132875823460767363 0
 60D:\project\my_projects\resume2021\dist\index.f5c48570.js.map132875823460936910 0
