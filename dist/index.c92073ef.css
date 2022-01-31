@@ -79,6 +79,13 @@ ul {
   color: black;
 }
 
+.language-conteiner {
+  padding-left: 30px;
+  padding-top: 20px;
+  color: white;
+  margin-bottom: 30px;
+}
+
 .about-me {
   padding-left: 90px;
   padding-right: 90px;
@@ -95,6 +102,12 @@ ul {
 }
 
 .list__link {
+  font-weight: bold;
+  text-decoration: none;
+  color: inherit;
+}
+
+.list__proj__link {
   font-weight: bold;
   text-decoration: none;
   color: inherit;
