@@ -8,9 +8,9 @@
 
 body {
   background: #f5f7fa;
-  padding: 20px;
+  padding: 10px;
   font-family: "Montserrat";
-  font-size: 10px;
+  font-size: 11px;
 }
 
 img {
@@ -40,7 +40,7 @@ ul {
   display: flex;
   flex-direction: row;
 
-  max-height: 1170px;
+  max-height: 1150px;
 }
 
 .sidebar {
@@ -84,14 +84,14 @@ ul {
   padding-left: 30px;
   padding-top: 20px;
   color: white;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .about-me {
   padding-left: 90px;
   padding-right: 90px;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .block-heading {
