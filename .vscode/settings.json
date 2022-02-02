@@ -1,3 +1,65 @@
 {
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "editor.scrollBeyondLastLine": true,
+  "editor.bracketPairColorization.enabled": true,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showExpandedAbbreviation": "never",
+  "prettier.semi": false,
+  "prettier.useTabs": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.arrowParens": "avoid",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.fontSize": 15,
+  "html.completion.attributeDefaultValue": "singlequotes",
+  "breadcrumbs.icons": false,
+  "breadcrumbs.showKeys": false,
+  "breadcrumbs.showFiles": false,
+  "breadcrumbs.symbolPath": "off",
+  "breadcrumbs.showArrays": false,
+  "breadcrumbs.showEvents": false,
+  "breadcrumbs.showFields": false,
+  "breadcrumbs.showClasses": false,
+  "breadcrumbs.showMethods": false,
+  "breadcrumbs.showBooleans": false,
+  "breadcrumbs.showFunctions": false,
+  "breadcrumbs.showConstants": false,
+  "breadcrumbs.showEnumMembers": false,
+  "breadcrumbs.showConstructors": false,
+  "javascript.suggestionActions.enabled": false,
+  "typescript.suggestionActions.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "cSpell.language": "en,ru",
+  "cSpell.enabled": true,
 }
