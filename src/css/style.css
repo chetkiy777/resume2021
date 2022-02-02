@@ -40,13 +40,13 @@ ul {
   display: flex;
   flex-direction: row;
 
-  max-height: 1150px;
+  max-height: 1120px;
 }
 
 .sidebar {
   background: #1e2939;
   width: 380px;
-  padding-top: 40px;
+  padding-top: 30px;
 }
 
 .contacts-container {
