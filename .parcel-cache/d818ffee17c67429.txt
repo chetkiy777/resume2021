@@ -45,7 +45,7 @@
 78D:\project\my_projects\resume2021\node_modules\caniuse-lite\data\regions\IT.js121436361000000000 0
 88D:\project\my_projects\resume2021\node_modules\jake\node_modules\supports-color\index.js131792129460000000 0
 71D:\project\my_projects\resume2021\node_modules\htmlparser2\lib\index.js121436361000000000 0
-38D:\project\my_projects\resume2021\dist132881041042928771 1
+38D:\project\my_projects\resume2021\dist132882794121044336 1
 69D:\project\my_projects\resume2021\node_modules\postcss-merge-longhand132875815291014993 1
 62D:\project\my_projects\resume2021\src\img\itea-js-advanced.jpg132810406041360738 0
 49D:\project\my_projects\resume2021\node_modules\ms132875819506695481 1
@@ -117,7 +117,7 @@
 99D:\project\my_projects\resume2021\node_modules\@babel\highlight\node_modules\chalk\types\index.d.ts121436361000000000 0
 82D:\project\my_projects\resume2021\node_modules\@parcel\utils\test\throttle.test.js121436361000000000 0
 62D:\project\my_projects\resume2021\node_modules\merge2\index.js121436361000000000 0
-48D:\project\my_projects\resume2021\src\index.html132881040998518475 0
+48D:\project\my_projects\resume2021\src\index.html132882793994908400 0
 68D:\project\my_projects\resume2021\node_modules\emphasize\lib\core.js121436361000000000 0
 78D:\project\my_projects\resume2021\node_modules\@swc\helpers\lib\_instanceof.js132811082760000000 0
 58D:\project\my_projects\resume2021\node_modules\array-union132878554004662170 1
@@ -10152,7 +10152,7 @@
 86D:\project\my_projects\resume2021\node_modules\@parcel\runtime-browser-hmr\src\loaders132875819379468392 1
 72D:\project\my_projects\resume2021\node_modules\chalk\source\templates.js121436361000000000 0
 77D:\project\my_projects\resume2021\node_modules\create-ecdh\node_modules\bn.js132875819512331078 1
-49D:\project\my_projects\resume2021\dist\index.html132881041042908838 0
+49D:\project\my_projects\resume2021\dist\index.html132882794121034367 0
 85D:\project\my_projects\resume2021\node_modules\create-ecdh\node_modules\bn.js\LICENSE121436361000000000 0
 78D:\project\my_projects\resume2021\node_modules\caniuse-lite\data\regions\CH.js121436361000000000 0
 62D:\project\my_projects\resume2021\node_modules\clone\clone.iml130965576200000000 0
