@@ -38,13 +38,13 @@ ul {
 	background: #ffffff;
 	display: flex;
 	flex-direction: row;
-
+	max-width: 1000px;
 	max-height: 1120px;
 }
 
 .sidebar {
 	background: #1e2939;
-	width: 380px;
+	width: 360px;
 	padding-top: 30px;
 }
 
